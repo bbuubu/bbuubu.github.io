@@ -1,12 +1,12 @@
 {	
-"spider":"http://192.168.1.2/tvbox/0723.jar",
+"spider":"https://bbuubu.github.io/0723.jar",
 
   "sites": [
     {
       "key": "影音视听",
       "name": "影音视听",
       "type": 1,
-      "api": "http://192.168.1.2:7878/api.php/provide/vod/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
